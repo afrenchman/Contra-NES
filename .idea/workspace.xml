@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd384239-c83a-4cad-94d3-eb8215129ba5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ContraGameDesign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/Bill_Rizer/BillRizerSpriteSheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/Bill_Rizer/BillRizer_FORWARD_GUN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/Bill_Rizer/BillRizer_RUN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/Bill_Rizer/NES - Contra - Bill Rizer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/Contra-title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/NES - Contra - Bill &amp; Lance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/NES - Contra - Stage 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/lightsintheeyes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/rockbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2sxwbK5agj1N5VfsgDKSLfnYyQo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.graphics.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main2.executor": "Run",
+    "Python.sprites.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Chaital Gummalla/PycharmProjects/ContraPython-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd384239-c83a-4cad-94d3-eb8215129ba5" name="Changes" comment="" />
+      <created>1739410603809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739410603809</updated>
+      <workItem from="1739410604994" duration="5125000" />
+      <workItem from="1739590730451" duration="138000" />
+      <workItem from="1739825261234" duration="300000" />
+      <workItem from="1740591514676" duration="66000" />
+      <workItem from="1741798431541" duration="803000" />
+      <workItem from="1743549991425" duration="753000" />
+      <workItem from="1743611592441" duration="1541000" />
+      <workItem from="1743615175349" duration="361000" />
+      <workItem from="1743624859280" duration="117000" />
+      <workItem from="1743714768148" duration="16748000" />
+      <workItem from="1743789107537" duration="4509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ContraGameDesign$sprites.coverage" NAME="sprites Coverage Results" MODIFIED="1743732073351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ContraGameDesign$main.coverage" NAME="main Coverage Results" MODIFIED="1743791030499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ContraGameDesign$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1743789730872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ContraGameDesign$graphics.coverage" NAME="graphics Coverage Results" MODIFIED="1743613106676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ContraPython-main" />
+  </component>
+</project>
