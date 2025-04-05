@@ -114,7 +114,8 @@ def handle_input():
                 print("Tetris selected")
                 # Agregar ejecución para Tetris
             elif selected_index == 3:
-                print("Contra selected")
+                game_path = os.path.join(os.path.dirname(__file__), '..', 'main', 'main.py')  # Ajuste aquí
+                subprocess.Popen(['python', game_path])  # Ejecutar el juego de Frogger
                 # Agregar ejecución para Xevious
 
             # Cerrar el menú después de seleccionar el juego
